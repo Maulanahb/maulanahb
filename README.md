@@ -1,13 +1,3 @@
-# 💫 About Me
-
-- 🔭 I’m currently working on **architecting scalable systems and turning raw caffeine into high-frequency code.**
-- 👯 I’m looking to collaborate on **high-impact, zero-BS projects that actually disrupt production.**
-- 🤝 I’m looking for help with **nothing—we read the docs and push directly through the trenches.**
-- 🌱 I’m currently learning **how to optimize database queries until latency reaches absolute zero.**
-- 💬 Ask me about **Full-stack architecture, Flutter performance, clean code, and cold efficiency.**
-- ⚡ Fun fact: **My commits don't break production; production adapts to my commits.**
-
----
 
 ## 🌐 Socials
 
